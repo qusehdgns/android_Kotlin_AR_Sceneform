@@ -2,8 +2,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.kotlin_ar_sceneform.MainActivity" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
-        android:orderInCategory="100"
-        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/andy"
+        android:title="andy"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/egg"
+        android:title="egg"
+        app:showAsAction="always" />
+
 </menu>
